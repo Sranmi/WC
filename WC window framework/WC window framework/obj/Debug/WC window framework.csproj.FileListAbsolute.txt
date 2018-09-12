@@ -1,0 +1,10 @@
+F:\作业\软件工程\WC window framework\WC window framework\bin\Debug\WC window framework.exe.config
+F:\作业\软件工程\WC window framework\WC window framework\bin\Debug\WC window framework.exe
+F:\作业\软件工程\WC window framework\WC window framework\bin\Debug\WC window framework.pdb
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC window framework.csprojAssemblyReference.cache
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC_window_framework.Form1.resources
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC_window_framework.Properties.Resources.resources
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC window framework.csproj.GenerateResource.cache
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC window framework.csproj.CoreCompileInputs.cache
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC window framework.exe
+F:\作业\软件工程\WC window framework\WC window framework\obj\Debug\WC window framework.pdb
