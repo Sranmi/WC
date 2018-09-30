@@ -1,0 +1,7 @@
+F:\作业\软件工程\2\四则运算\四则运算\obj\Debug\四则运算.csprojAssemblyReference.cache
+F:\作业\软件工程\2\四则运算\四则运算\obj\Debug\四则运算.csproj.CoreCompileInputs.cache
+F:\作业\软件工程\2\四则运算\四则运算\bin\Debug\四则运算.exe.config
+F:\作业\软件工程\2\四则运算\四则运算\bin\Debug\四则运算.exe
+F:\作业\软件工程\2\四则运算\四则运算\bin\Debug\四则运算.pdb
+F:\作业\软件工程\2\四则运算\四则运算\obj\Debug\四则运算.exe
+F:\作业\软件工程\2\四则运算\四则运算\obj\Debug\四则运算.pdb
